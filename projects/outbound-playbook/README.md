@@ -54,3 +54,18 @@ This framework follows the **Acknowledge $\rightarrow$ Pivot $\rightarrow$ Open-
 * **Sales Tech Stack:** Salesforce, HubSpot CRM, Zoho CRM, Power BI, Advanced Excel[cite: 2, 3]
 * **Prospecting Strategy:** Outbound Lead Generation, Omnichannel Sequences, Account-Based Marketing (ABM)[cite: 2, 3]
 * **Analytics & Tracking:** Pipeline Stage Conversion Velocity, Data Hygiene, Forecast Analytics[cite: 2, 3]
+---
+
+## 🔄 Campaign Execution Workflow
+
+```text
+[ Prospect Identified ] 
+          │
+          ▼
+[ Touchpoint 1: Cold Email (Day 1) ]
+          │
+          ├── (No Reply) ──► [ Touchpoint 2: LinkedIn Value Note (Day 3) ]
+          │                           │
+          │                           └── (No Reply) ──► [ Touchpoint 3: Phone Outreach + Objection Matrix (Day 5) ]
+          │                                                       │
+          └───────────────────── (Engaged / Interested) ──────────┴─► [ Discovery Call Scheduled ]
