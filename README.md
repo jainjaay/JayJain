@@ -9,8 +9,8 @@ Welcome to my professional portfolio. This repository highlights my experience i
 * 📦 **[B2B Outbound Campaign & Objection Playbook](https://github.com/jainjaay/JayJain/tree/main/projects/outbound-playbook)**
   * Full outbound prospecting framework targeting mid-market logistics companies in Ontario. Features cold email cadences, LinkedIn social selling scripts, and a cold-call objection-handling matrix.
 
-* 📊 **Sales Analytics & CRM Dashboards** *(Coming Soon)*
-  * Power BI models and Excel reporting frameworks tracking pipeline velocity, conversion rates, and revenue metrics.
+* 📊 **[Sales Analytics & CRM Pipeline Dashboard](https://github.com/jainjaay/JayJain/tree/main/projects/sales-analytics)**
+  * Power BI data model and reporting framework tracking pipeline velocity, conversion rates, and revenue forecasting across 500+ monthly leads.
 
 ---
 
