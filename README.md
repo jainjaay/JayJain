@@ -7,7 +7,7 @@ Welcome to my professional portfolio. This repository highlights my experience i
 ### 📌 Featured Portfolio Projects
 
 * 📦 **[B2B Outbound Campaign & Objection Playbook](https://github.com/jainjaay/JayJain/tree/main/projects/outbound-playbook)**
-  * Full outbound prospecting framework targeting mid-market logistics companies in Ontario. Features cold email cadences, LinkedIn social selling scripts, and a cold-call objection handling matrix.
+  * Full outbound prospecting framework targeting mid-market logistics companies in Ontario. Features cold email cadences, LinkedIn social selling scripts, and a cold-call objection-handling matrix.
 
 * 📊 **Sales Analytics & CRM Dashboards** *(Coming Soon)*
   * Power BI models and Excel reporting frameworks tracking pipeline velocity, conversion rates, and revenue metrics[cite: 2, 3].
@@ -23,5 +23,5 @@ Welcome to my professional portfolio. This repository highlights my experience i
 
 ### 📩 Contact & Profiles
 📍 **Location:** Waterloo, ON[cite: 2]  
-✉️ **Email:** jainjaay@gmail.com[cite: 2]  
+✉️ **Email:** [jainjaay@gmail.com](mailto:jainjaay@gmail.com)[cite: 2]  
 🔗 **LinkedIn:** [linkedin.com/in/jay-jain-054046169](https://www.linkedin.com/in/jay-jain-054046169/)[cite: 2]
